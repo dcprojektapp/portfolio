@@ -2,6 +2,7 @@
 
 > Darmowy dekoder VIN dla aut sprowadzanych z USA.
 
+**Demo:** [https://dcprojektapp.pl/demo/vin/](https://dcprojektapp.pl/demo/vin/)  
 **Technologie:** czyste PHP 8.2, bez żadnych zależności (bez Composera, bez kroku budowania) · API NHTSA · testy
 
 ## Co zawiera raport

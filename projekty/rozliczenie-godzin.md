@@ -2,6 +2,7 @@
 
 > Lekka aplikacja przeglądarkowa do ewidencji i rozliczania godzin pracy.
 
+**Demo:** [https://dcprojektapp.pl/demo/godziny/](https://dcprojektapp.pl/demo/godziny/)  
 **Technologie:** HTML · CSS · JavaScript
 
 ## Funkcje
