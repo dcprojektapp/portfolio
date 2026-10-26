@@ -56,4 +56,5 @@ Od 16 lat uczę przedmiotów informatycznych w technikum i administruję szkoln�
 
 ## 📫 Kontakt
 
+- E-mail: [dcprojektapp@gmail.com](mailto:dcprojektapp@gmail.com)
 - Portal: [tablicapro.pl](https://tablicapro.pl)
