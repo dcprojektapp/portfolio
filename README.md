@@ -28,7 +28,6 @@ Od 16 lat uczę przedmiotów informatycznych w technikum i administruję szkoln�
 |---|---|---|---|
 | [VIN Check](projekty/vin-check.md) | Raport o aucie z USA z publicznych baz NHTSA | PHP 8.2 bez zależności | [▶ Otwórz](https://dcprojektapp.pl/demo/vin/) |
 | [System Zgłaszania Usterek](projekty/zglaszanie-usterek.md) | Zgłaszanie i obsługa awarii w szkole | PHP, MySQL, Composer | — |
-| [RSPO – wyszukiwarka](projekty/rspo.md) | Wyszukiwarka szkół z danymi o pracowniach AI | Python, SQLite | [▶ Otwórz](https://dcprojektapp.pl/demo/rspo/) |
 | [Uczymy się Angielskiego](projekty/angielski-klasa-4.md) | Ćwiczenia do podręcznika English Class 4 | HTML, CSS, JS | [▶ Otwórz](https://dcprojektapp.pl/demo/angielski/) |
 | [Rozliczenie godzin](projekty/rozliczenie-godzin.md) | Ewidencja godzin pracy zamiast arkusza Excela | HTML, CSS, JS | [▶ Otwórz](https://dcprojektapp.pl/demo/godziny/) |
 
