@@ -2,7 +2,7 @@
 
 > Interaktywny plan i nawigacja krok po kroku po budynku Zespołu Szkół nr 3 w Łukowie.
 
-**Status:** opublikowana · [Google Play](https://play.google.com/store/apps/details?id=pl.zs3.school_nav) · App Store
+**Status:** opublikowana · [Google Play](https://play.google.com/store/apps/details?id=pl.zs3.school_nav) · [App Store](https://apps.apple.com/pl/app/nawigacja-zs3-w-%C5%82ukowie/id6762303287?l=pl)
 **Technologie:** Flutter · mapy wektorowe SVG · skaner QR · wyznaczanie trasy
 
 ## Problem

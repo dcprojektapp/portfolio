@@ -4,7 +4,7 @@
 
 Tworzę aplikacje mobilne i webowe z agentami AI (Claude Code, Codex, Gemini). Prowadzę produkt od pomysłu do publikacji: research niszy, projekt, kod, backend, testy, wdrożenie i materiały do sklepów. Zasady pracy agentów opisuję w plikach `CLAUDE.md`, `AGENTS.md` i `GEMINI.md`, dzięki czemu kod jest spójny i powtarzalny.
 
-Od 14 lat uczę przedmiotów informatycznych w technikum i administruję szkolną infrastrukturą IT. Wiele moich projektów rozwiązuje prawdziwe problemy szkoły.
+Od 16 lat uczę przedmiotów informatycznych w technikum i administruję szkolną infrastrukturą IT. Wiele moich projektów rozwiązuje prawdziwe problemy szkoły.
 
 > Kod źródłowy aplikacji komercyjnych jest prywatny. To repozytorium opisuje projekty: co robią, jak są zbudowane i jakie problemy rozwiązują.
 
@@ -16,8 +16,8 @@ Od 14 lat uczę przedmiotów informatycznych w technikum i administruję szkoln�
 |---|---|---|---|
 | [AutoCare360](projekty/autocare360.md) | Giełda napraw i cyfrowa książka serwisowa auta | Flutter, Supabase | ✅ [Google Play](https://play.google.com/store/apps/details?id=com.autocare360.app) · [App Store](https://apps.apple.com/pl/app/autocare360/id6783647046) |
 | [WordForge](projekty/wordforge.md) | Własne słówka z tłumaczeniem AI, wymową offline i 9 trybami nauki | Flutter, LLM, Sherpa ONNX | ✅ [Google Play](https://play.google.com/store/apps/details?id=com.dawidchaber.wordforge) · App Store |
-| [Kalkulator Walut](projekty/kalkulator-walut.md) | Kursy NBP, przelicznik, wykresy historyczne | Flutter, Cubit, API NBP | ✅ [Google Play](https://play.google.com/store/apps/details?id=com.dawidchaber.kalkulatorwalut) · App Store |
-| [Nawigacja ZS3](projekty/nawigacja-zs3.md) | Plan szkoły z nawigacją krok po kroku i kodami QR | Flutter, SVG | ✅ [Google Play](https://play.google.com/store/apps/details?id=pl.zs3.school_nav) · App Store |
+| [Kalkulator Walut](projekty/kalkulator-walut.md) | Kursy NBP, przelicznik, wykresy historyczne | Flutter, Cubit, API NBP | ✅ [Google Play](https://play.google.com/store/apps/details?id=com.dawidchaber.kalkulatorwalut) · [App Store](https://apps.apple.com/pl/app/kalkulator-walut/id6759367836?l=pl) |
+| [Nawigacja ZS3](projekty/nawigacja-zs3.md) | Plan szkoły z nawigacją krok po kroku i kodami QR | Flutter, SVG | ✅ [Google Play](https://play.google.com/store/apps/details?id=pl.zs3.school_nav) · [App Store](https://apps.apple.com/pl/app/nawigacja-zs3-w-%C5%82ukowie/id6762303287?l=pl) |
 | [FloraScan](projekty/florascan.md) | Rozpoznawanie roślin z AI, plan pielęgnacji, toksyczność | Flutter, AI Vision, Supabase | 🛠 w budowie |
 
 ## 🌐 Aplikacje webowe

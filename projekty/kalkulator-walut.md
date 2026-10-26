@@ -2,7 +2,7 @@
 
 > Kursy walut i surowców z oficjalnego API NBP, przelicznik i wykresy historyczne, bez zbędnych reklam.
 
-**Status:** opublikowana · [Google Play](https://play.google.com/store/apps/details?id=com.dawidchaber.kalkulatorwalut) · App Store
+**Status:** opublikowana · [Google Play](https://play.google.com/store/apps/details?id=com.dawidchaber.kalkulatorwalut) · [App Store](https://apps.apple.com/pl/app/kalkulator-walut/id6759367836?l=pl)
 **Technologie:** Flutter · flutter_bloc (Cubit) · Clean Architecture · API NBP · testy jednostkowe
 
 ## Funkcje
